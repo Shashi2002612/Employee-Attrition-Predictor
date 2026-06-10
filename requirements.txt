@@ -1,0 +1,6 @@
+%%writefile requirements.txt
+scikit-learn
+pandas
+streamlit
+numpy
+imbalanced-learn
