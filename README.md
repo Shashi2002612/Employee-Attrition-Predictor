@@ -1,4 +1,3 @@
-%%writefile README.md
 # 🔮 Employee Attrition Predictor
 
 A machine learning web app that predicts employee attrition risk using Logistic Regression.
